@@ -1,0 +1,150 @@
+key		fruit
+4514	alfalfa sprouts
+4131	apple fuji
+4133	apple gala
+4017	apple granny smith
+4218	apricots
+4525	asparagus
+4225	avocado large hass
+4227	avocado small
+4234	banana leaf
+4011	banana
+4232	banana baby
+4229	banana burro
+4235	banana macho
+4885	basil
+4536	bean sprouts
+3176	beans black
+3196	beans black eye
+3174	beans garbanzo
+4066	beans green
+3175	beans haba dry
+4528	beans haba fresh
+3173	beans lentils
+3170	beans peruano
+3172	beans pinto
+3177	beans red
+4539	beets bunch
+4540	beets loose
+4065	bell pepper green
+4088	bell pepper red
+4239	black berries
+4545	bok choy
+4060	broccoli
+4550	brussel sprouts
+4069	cabbage green
+4556	cabbage Napa
+4554	cabbage red
+4820	camote de cerro
+4562	carrots
+4079	cauliflower
+4583	celery
+4045	cherries red
+4822	chile de arbol fresco
+4696	chile anaheim
+3125	chile habanero
+4692	chile hungaro
+4693	chile jalapeño
+4701	chile pasilla
+4709	chile serrano
+4680	chile yellow
+3188	chile dry california
+3185	chile dry arbol
+3186	chile dry guajillo
+3181	chile dry japanese
+3184	chile dry pasilla
+4260	coconut white
+4077	corn white
+4078	corn yellow
+4062	cucumber
+4593	cucumber persian
+4874	duritos
+4081	eggplant
+4608	garlic
+4612	ginger root
+4282	grapefruit
+4273	grapes globe
+4022	grapes green
+4023	grapes red seedless
+4614	green collard
+4627	green kale
+4619	green turnip
+4821	guajes
+3189	guasanas
+4299	guayabas
+4889	cilantro
+4909	epazote
+4896	mint
+4897	oregano
+4899	parsley
+4870	jamaica
+4626	jicama
+4629	leeks
+4053	lemons yellow
+4061	lettuce
+4076	lettuce green leaf
+4075	lettuce red leaf
+4640	lettuce romaine
+4048	limes
+4305	limes mex key
+4306	limes sweet
+4644	malanga
+4310	mamey
+4051	mango
+4050	melon cantaloupe
+4034	melon honeydew
+4645	mushroom bulk
+4646	mushroom pack
+4036	nectarines
+4188	nectarines white
+4926	nuts brazil
+4931	nuts peanuts
+4936	nuts pecans
+4943	nuts walnuts
+4939	nuts pistachios
+4658	onions boiling
+4093	onions brown
+4068	onions green
+4082	onions red
+4663	onions white
+4012	orange navel
+4395	papaya
+4038	peaches yellow
+4409	pear bartlett
+4026	pear bosc
+4416	pear anjou
+4427	persimmon
+4873	piloncillo
+4430	pineapple
+4039	plums black
+4041	plums red
+4445	pomegranate
+4073	potato red
+4072	potato russet loose
+4083	potato white
+4089	radish red bunch
+4090	spinach
+4759	squash butternut
+4827	squash chayote
+4769	squash kabocha
+4776	squash spaghetti
+4750	squash acorn
+4786	squash mexican
+4784	squash yellow
+4028	strawberry basket
+4450	tangerine clementine
+4453	tangerine honey
+4055	tangerine mineola
+4472	tejocote
+4801	tomatillo
+3146	tomatoes cherry
+4063	tomatoes reg
+3145	tomatoes roma
+4813	turnips
+4815	watercress
+4031	watermelon reg
+4032	watermelon seedless
+4471	tuna
+4818	yams medium
+4817	yams jumbo
+4819	yucca
